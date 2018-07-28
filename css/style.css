@@ -53,7 +53,7 @@ body {
   font-size: 14px;
 }
 
-nav {
+.nav {
   background color: yellow;
   height: 100px;
   margin-top: -10px;
@@ -83,10 +83,13 @@ h3 {
 .element {
   background-color: green;
   height: 100px;
-  margin 10px 0;
+  margin: 10px 0;
   width: 100%;
 }
 
-.element2 {
+.element-blue {
   background-color: blue;
+  height: 100px;
+  margin: 10px 0;
+  width: 100%;
 }
